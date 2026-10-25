@@ -21,3 +21,4 @@ Members of the organization : <br>
 * Ritish Sehgal [apex-blaze]
 * John Bampton [jbampton]
 * Max Base [basemax]
+* Aaryan Patel [asp53826]
